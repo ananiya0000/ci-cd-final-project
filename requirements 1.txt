@@ -1,0 +1,1 @@
+/home/theia/ci-cd-final-project/requirements.txt
